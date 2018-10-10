@@ -1,0 +1,21 @@
+{
+    "fullname": "lib.xinabox.sl01",
+    "git_pointer": "github://xinabox/zerynth-SL01",
+    "title": "XinaBox SL01",
+    "description": "Module for XinaBox SL01 UV and light sensor",
+    "keywords": [
+        "light",
+        "UV",
+        "VEML6075",
+        "TSL4531",
+        "xinabox"
+    ],
+    "info": {
+        "chip_manufacturer": "XinaBox",
+        "chip_name": "SL01",
+        "name": "UV and Light Sensor",
+        "type": "Sensor"
+    }, 
+    "repo": "official",
+    "version": "r2.1.2"
+}
