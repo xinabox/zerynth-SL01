@@ -77,7 +77,7 @@ VEML6075 class
 
 .. class:: VEML6075(self, drvname, addr=0x10, clk=100000)
 
-        Create an instance of the SL01 class.
+        Create an instance of the VEML6075 class.
 
         :param drvname: I2C Bus used '( I2C0, ... )'
         :param addr: Slave address, default 0x10
