@@ -1,8 +1,13 @@
 {
+    "description": "Module for XinaBox SL01 UV and light sensor",
     "fullname": "lib.xinabox.sl01",
     "git_pointer": "github://xinabox/zerynth-SL01",
-    "title": "XinaBox SL01",
-    "description": "Module for XinaBox SL01 UV and light sensor",
+    "info": {
+        "chip_manufacturer": "XinaBox",
+        "chip_name": "SL01",
+        "name": "UV and Light Sensor",
+        "type": "Sensor"
+    },
     "keywords": [
         "light",
         "UV",
@@ -10,12 +15,7 @@
         "TSL4531",
         "xinabox"
     ],
-    "info": {
-        "chip_manufacturer": "XinaBox",
-        "chip_name": "SL01",
-        "name": "UV and Light Sensor",
-        "type": "Sensor"
-    }, 
     "repo": "official",
-    "version": "r2.1.2"
+    "title": "XinaBox SL01",
+    "version": "r2.2.0"
 }
